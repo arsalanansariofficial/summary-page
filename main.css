@@ -113,6 +113,10 @@ main {
   }
 }
 
+.hero_adjective {
+  font-size: 1.17rem;
+}
+
 .hero_description {
   color: var(--Light-lavender);
   margin-block: 1em;
@@ -141,6 +145,7 @@ main {
 
 .summary_title {
   color: var(--Cobalt-blue);
+  font-size: inherit;
 }
 
 .summary_points {
